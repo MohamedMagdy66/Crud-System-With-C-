@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\.Net projects\\Person Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4101635A-0CCF-4A8E-9F8E-7D44B5517F6F}|Person Management\\Person Management.csproj|c:\\.net projects\\person management\\person management\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4101635A-0CCF-4A8E-9F8E-7D44B5517F6F}|Person Management\\Person Management.csproj|solutionrelative:person management\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4101635A-0CCF-4A8E-9F8E-7D44B5517F6F}|Person Management\\Person Management.csproj|C:\\.Net projects\\Person Management\\person management\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4101635A-0CCF-4A8E-9F8E-7D44B5517F6F}|Person Management\\Person Management.csproj|solutionrelative:person management\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4101635A-0CCF-4A8E-9F8E-7D44B5517F6F}|Person Management\\Person Management.csproj|C:\\.Net projects\\Person Management\\person management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4101635A-0CCF-4A8E-9F8E-7D44B5517F6F}|Person Management\\Person Management.csproj|solutionrelative:person management\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\.Net projects\\Person Management\\Person Management\\Manager.cs",
+              "RelativeDocumentMoniker": "Person Management\\Manager.cs",
+              "ToolTip": "C:\\.Net projects\\Person Management\\Person Management\\Manager.cs*",
+              "RelativeToolTip": "Person Management\\Manager.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T04:17:41.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\.Net projects\\Person Management\\Person Management\\Program.cs",
+              "RelativeDocumentMoniker": "Person Management\\Program.cs",
+              "ToolTip": "C:\\.Net projects\\Person Management\\Person Management\\Program.cs",
+              "RelativeToolTip": "Person Management\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T03:00:36.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\.Net projects\\Person Management\\Person Management\\Person.cs",
+              "RelativeDocumentMoniker": "Person Management\\Person.cs",
+              "ToolTip": "C:\\.Net projects\\Person Management\\Person Management\\Person.cs",
+              "RelativeToolTip": "Person Management\\Person.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T03:01:38.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

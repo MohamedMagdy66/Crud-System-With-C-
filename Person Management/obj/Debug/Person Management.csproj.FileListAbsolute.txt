@@ -1,0 +1,7 @@
+C:\.Net projects\Person Management\Person Management\bin\Debug\Person Management.exe.config
+C:\.Net projects\Person Management\Person Management\bin\Debug\Person Management.exe
+C:\.Net projects\Person Management\Person Management\bin\Debug\Person Management.pdb
+C:\.Net projects\Person Management\Person Management\obj\Debug\Person Management.csproj.AssemblyReference.cache
+C:\.Net projects\Person Management\Person Management\obj\Debug\Person Management.csproj.CoreCompileInputs.cache
+C:\.Net projects\Person Management\Person Management\obj\Debug\Person Management.exe
+C:\.Net projects\Person Management\Person Management\obj\Debug\Person Management.pdb
